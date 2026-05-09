@@ -4,12 +4,6 @@ date: 2026-05-08 21:00:00 +0530
 categories: [Journey]
 tags: [intro, learning-in-public]
 ---
----
-title: Starting My Cybersecurity Journey
-date: 2026-05-08 21:00:00 +0530
-categories: [Journey]
-tags: [intro, learning-in-public]
----
 
 ## Why I'm starting this blog
 
