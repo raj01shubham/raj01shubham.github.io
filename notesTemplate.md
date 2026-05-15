@@ -1,6 +1,6 @@
 # [Topic name]
-Date: 2026-05-18
-Source: TryHackMe — Linux Fundamentals 1
+Date: []
+Source: [THM/Coursera/Udemy/Percipio/...] — [Room/Module/Lesson/Chapter] [Link]
 Time spent: 1h
 
 ## What this is (one sentence)
