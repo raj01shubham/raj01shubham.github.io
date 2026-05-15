@@ -24,3 +24,26 @@ ls -la
 ## Questions for later
 - [ ] Why does X work differently from Y?
 - [ ] Look up Z
+
+------------------------------------------------------------------------------------------------------------------------------
+
+cybersecurity-journey/
+├── notes/                          ← Obsidian vault
+│   ├── tryhackme/
+│   │   └── pre-security/
+│   │       ├── osi-model.md        ← messy, terse, full of "TODO: revisit"
+│   │       └── ...
+│   ├── python/
+│   ├── concepts/
+│   └── daily-log.md
+│
+├── _posts/                         ← Jekyll posts (public)
+│   ├── 2026-05-11-starting-the-journey.md
+│   ├── 2026-06-14-one-month-in-what-i-learned.md
+│   └── 2026-07-12-osi-model-from-an-sdets-perspective.md
+│
+├── _drafts/                        ← Jekyll drafts (NOT published)
+│   └── post-i'm-still-cooking.md
+│
+├── scripts/
+└── cybersecurity-journey-tracker.md
